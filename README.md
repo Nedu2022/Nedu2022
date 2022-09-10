@@ -34,5 +34,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nedu2022&show_icons=true"/>
 
 
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nedu2022&layout=compact"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nedu2022)](https://github.com/ryo-ma/github-profile-trophy)
