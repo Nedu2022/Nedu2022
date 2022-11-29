@@ -9,13 +9,15 @@
 
 - 🔭 I’m currently working on **Buri.io**
 
-- 🌱 I’m currently learning **C Programming Language**
+- 🌱 I’m currently learning **Python Programming Language**
 
 - 👯 I’m looking to collaborate on **alx-system_engineering-devops**
 
 - 📫 How to reach me **nwabuokeichinedu00@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1n762SsIizBsHKlP9C6X3eeWo_Mib_5O4/view?usp=sharing](https://drive.google.com/file/d/1n762SsIizBsHKlP9C6X3eeWo_Mib_5O4/view?usp=sharing)
+
+- Check out my portfolio **https://chinedu00.netlify.app**
 
 - ⚡ Fun fact **I Love Gaming**
 
