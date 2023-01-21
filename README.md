@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinedu Nwabuokei</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
-<img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedu2022&label=Profile%20views&color=0e75b6&style=flat" alt="nedu2022" /> </p>
 
 
