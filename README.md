@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinedu Nwabuokei</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
-<img align="right" alt="Coding" width="500" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nedu2022&label=Profile%20views&color=0e75b6&style=flat" alt="nedu2022" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/jesse14887992" target="blank"><img src="https://img.shields.io/twitter/follow/jesse14887992?logo=twitter&style=for-the-badge" alt="jesse14887992" /></a> </p>
