@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>
-      <p>- 🔭 I’m currently working on <b>React Projects</b></p>
+      <p>- 🔭 I’m currently working on <b>Javascript, Typescript, ReactJs & NextJs.</b></p>
       <p>- 🌱 I’m currently learning <b>Javascript</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:nwabuokeichinedu00@gmail.com alt=email>nwabuokeichinedu00@gmail.com</a></b></p>
