@@ -45,9 +45,10 @@
 </table>
 
 
-
+<div>
 <p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=Nedu2022&label=Profile%20views&color=0e75b6&style=flat" alt="Nedu2022" /> </p>
 
-CODING TIME THIS YEAR: <a href="https://wakatime.com/@cb39dac5-4b1d-40a4-b209-598ec55a7304"><img src="https://wakatime.com/badge/user/cb39dac5-4b1d-40a4-b209-598ec55a7304.svg" alt="Total time coded since May 18 2020" /></a>
+CODING TIME THIS YEAR: <a href="https://wakatime.com/@018bda3f-bbe4-42c0-b771-dfa988b18b4f"><img src="https://wakatime.com/badge/user/018bda3f-bbe4-42c0-b771-dfa988b18b4f.svg" alt="Total time coded since Nov 16 2023" /></a>
 
+</div>
 
